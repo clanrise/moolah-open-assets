@@ -1,0 +1,7 @@
+/* gilroy-regular */
+@font-face {
+  font-family: 'Gilroy';
+  font-weight: 'normal';
+  font-display: swap;
+  src: local('Open Sans Italic'), local('OpenSans-Italic'), url(https://github.com/clanrise/moolah-open-assets/tree/master/Fonts/Gilroy/Gilroy-Regular.ttf) format('ttf');
+}
