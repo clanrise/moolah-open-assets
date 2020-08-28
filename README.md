@@ -1,0 +1,1 @@
+# moolah-open-assets
